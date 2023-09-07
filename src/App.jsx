@@ -6,10 +6,10 @@ function App() {
 
   return (
     <>
-      <Friends></Friends>
       <Counter></Counter>
+      <Friends></Friends>
     </>
-  )
+  );
 }
 
 export default App
